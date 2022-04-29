@@ -30,8 +30,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
+## Table of Contents
   <ol>
     <li><a href="#archive-list">Archive List</a></li>
     <li><a href="#original-petition">Original Petition</a></li>
@@ -39,7 +38,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
-</details>
+
 
 <!-- ARCHIVE LIST -->
 ## Archive List
