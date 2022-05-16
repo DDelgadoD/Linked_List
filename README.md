@@ -8,12 +8,11 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![GitHub][github-shield]][github-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![ResearchGate][researchgate-shield]][researchgate-url]
-[![Gmail][gmail-shield]][gmail-url]
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -103,9 +102,14 @@ Distributed under the MIT License. See [`LICENSE.md`](https://raw.githubusercont
 <!-- CONTACT -->
 ## Contact
 
-David Delgado-Dueñas - david.delgado82@gmail.com
+David Delgado-Dueñas
 
-Project Link: [https://bitbucket.org/test-coda/test2_express_app](https://bitbucket.org/test-coda/test2_express_app)
+[![GitHub][github-shield]][github-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![ResearchGate][researchgate-shield]][researchgate-url]
+[![Gmail][gmail-shield]][gmail-url]
+
+Project Link: [https://github.com/DDelgadoD/Linked_List](https://github.com/DDelgadoD/Linked_List)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -121,5 +125,15 @@ Project Link: [https://bitbucket.org/test-coda/test2_express_app](https://bitbuc
 [license-url]: https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=0072B1
 [linkedin-url]: https://www.linkedin.com/in/david-delgado-duenas/
+[contributors-shield]: https://img.shields.io/github/contributors/DDelgadoD/Linked_List.svg?style=for-the-badge
+[contributors-url]: https://github.com/DDelgadoD/Linked_List/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/DDelgadoD/Linked_List.svg?style=for-the-badge
+[forks-url]: https://github.com/DDelgadoD/Linked_List/network/members
+[stars-shield]: https://img.shields.io/github/stars/DDelgadoD/Linked_List.svg?style=for-the-badge
+[stars-url]: https://github.com/DDelgadoD/Linked_List/stargazers
+[issues-shield]: https://img.shields.io/github/issues/DDelgadoD/Linked_List.svg?style=for-the-badge
+[issues-url]: https://github.com/DDelgadoD/Linked_List/issues
+[license-shield]: https://img.shields.io/github/license/DDelgadoD/Linked_List.svg?style=for-the-badge
+[license-url]: https://github.com/DDelgadoD/Linked_Lists/blob/master/LICENSE.txt
 [product-screenshot]: images/screenshot.png
  
