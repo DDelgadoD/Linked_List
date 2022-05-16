@@ -7,6 +7,7 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
+
 [![MIT License][license-shield]][license-url]
 [![GitHub][github-shield]][github-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -18,7 +19,7 @@
 <br />
 <div align="center">
   <a href="https://bitbucket.org/test-coda/test2_express_app">
-    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="1000" height="100">
+    <img src="https://raw.githubusercontent.com/DDelgadoD/DDelgadoD/main/images/logo.jpg" alt="Logo" width="250" height="250">
   </a>
 
 <h3 align="center">LINKED LISTS</h3>
